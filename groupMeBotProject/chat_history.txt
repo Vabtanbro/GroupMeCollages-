@@ -3378,3 +3378,80 @@ Karan : hey Vaibhav
 Karan : are you guys know only 20 percent placement done this year
 Karan : @vaibhav singh tanwar  brothe are you going market today for buying dress
 Karan : /ask what thing will vaibhav buy from market
+Karan : /announcement 8376
+NeurTechBot : 📣 Announcement 2024-02-10📣
+
+                Dear Students,
+
+                Good news! The college will be closed for a delightful 2-day holiday starting tomorrow. Enjoy the break, recharge, and return refreshed for another productive academic week. Happy holidays! 🌟
+            
+Karan : /help
+NeurTechBot : 
+        Available commands:
+        /ask <question> - Ask a question and get a response.
+        /timetable <student_id> - Get the timetable for a student.
+        /course <student_id> - Get the courses for a student.
+        /announcement <student_id> - View announcements for a student.
+        /assignment <student_id> - View assignments for a student.
+        /mydetail - Get your details.
+        
+        Example usage:
+        /ask How does climate change affect biodiversity?
+        /timetable 8376
+        /course 8376
+        /announcement 8376
+        /assignment 8376
+        /mydetail
+        
+Karan : /ask what karan said
+NeurTechBot : I'm sorry, but I don't have any information about what Karan said.
+Karan : /ask How does climate change affect biodiversity?
+Karan : Hey aaryan
+Karan : hey Vaibhav
+Karan : are you guys know only 20 percent placement done this year
+Karan : @vaibhav singh tanwar  brothe are you going market today for buying dress
+Karan : /ask what thing will vaibhav buy from market
+NeurTechBot : I'm sorry, but I don't have any information about what Vaibhav will buy from the market.
+Aryan Sharma : Hey karan fill this form today only this very important here is link google.com
+Karan : ok i will fill it by EOD
+Aryan Sharma : No no please do it under 10 min 
+Karan : ok bro
+Aryan Sharma : Its a hiring form 
+Karan : ok ok
+Karan : /ask hey what important work i have to do today
+Karan : /help
+NeurTechBot : 
+        Available commands:
+        /ask <question> - Ask a question and get a response.
+        /timetable <student_id> - Get the timetable for a student.
+        /course <student_id> - Get the courses for a student.
+        /announcement <student_id> - View announcements for a student.
+        /assignment <student_id> - View assignments for a student.
+        /mydetail - Get your details.
+        
+        Example usage:
+        /ask How does climate change affect biodiversity?
+        /timetable 8376
+        /course 8376
+        /announcement 8376
+        /assignment 8376
+        /mydetail
+        
+Karan : /ask what karan said
+NeurTechBot : I'm sorry, but I don't have any information about what Karan said.
+Karan : /ask How does climate change affect biodiversity?
+Karan : Hey aaryan
+Karan : hey Vaibhav
+Karan : are you guys know only 20 percent placement done this year
+Karan : @vaibhav singh tanwar  brothe are you going market today for buying dress
+Karan : /ask what thing will vaibhav buy from market
+NeurTechBot : I'm sorry, but I don't have any information about what Vaibhav will buy from the market.
+Aryan Sharma : Hey karan fill this form today only this very important here is link google.com
+Karan : ok i will fill it by EOD
+Aryan Sharma : No no please do it under 10 min 
+Karan : ok bro
+Aryan Sharma : Its a hiring form 
+Karan : ok ok
+Karan : /ask hey what important work i have to do today
+NeurTechBot : I'm sorry, but I don't have any information about what important work you have to do today.
+Karan : /ask hey which kind of form aryan send me
